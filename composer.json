@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "name": "doublevas/test-stripe",
+    "description": "Payment Gateway Integration Example",
+    "keywords": ["example", "project", "stripe"],
     "license": "MIT",
     "type": "project",
     "require": {
